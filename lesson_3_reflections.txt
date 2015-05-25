@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+If I use github from not my computer, or if I ask someone to make contributions to my github repository.
