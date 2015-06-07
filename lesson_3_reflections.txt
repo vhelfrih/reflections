@@ -3,3 +3,9 @@ If I use github from not my computer, or if I ask someone to make contributions 
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 I want to keep control of what to pull and when, for example if there are other contributors as well making changes to my remote.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks are repositories on Github, clones are the exact copies of repositories, branches are the different ways of a changing repository. I would use forks on Github and clones on my local computer in order not to make changes to an original repository.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It is useful to be always up-to-date.
